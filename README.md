@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Learn More
+
+Getting started with react: https://www.youtube.com/watch?v=iE2riYcRUDQ
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -14,9 +19,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+## Game 1: Tic Tac Toe
 
-## Learn More
+![Demo](public/tic-tac-toe.gif)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Find me on Twitter, LinkedIn, Facebook, or any social platform @engineerchirag.
+Author: [Chirag Goel](http://www.engineerchirag.in)
