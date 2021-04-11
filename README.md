@@ -22,6 +22,7 @@ You will also see any lint errors in the console.
 ## Game 1: Tic Tac Toe
 
 ![Demo](public/tic-tac-toe.gif)
+Working Demo: https://engineerchirag.github.io/react-games/
 
 Find me on Twitter, LinkedIn, Facebook, or any social platform @engineerchirag.
 Author: [Chirag Goel](http://www.engineerchirag.in)
